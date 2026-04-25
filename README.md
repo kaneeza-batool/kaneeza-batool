@@ -1,13 +1,12 @@
 # Kaneeza Batool
-**Frontend Developer in progress — building toward full-stack by end of 2026.**
+**Frontend Developer**
 
 ---
 
 ## About Me
 
-I'm a 4th-semester BSCS student at Sukkur IBA University, currently focused on frontend development while working toward a full-stack skill set. My goal is straightforward: be job-ready as a web developer by December 2026.
-
-Right now I'm in the fundamentals-to-proficiency phase — building real projects, doing LeetCode daily in Java, and following a structured roadmap. Not there yet, but actively moving.
+I'm a 4th-semester BSCS student at Sukkur IBA University, currently focused on frontend development while working toward a full-stack skill set. 
+Right now I'm in the fundamentals-to-proficiency phase, building real projects, doing LeetCode daily in Java, and following a structured roadmap. Not there yet, but actively moving.
 
 ---
 
@@ -16,9 +15,9 @@ Right now I'm in the fundamentals-to-proficiency phase — building real project
 | Program | Organization | Status |
 |---|---|---|
 | 🎓 Code in Place 2026 | Stanford University | Selected Participant |
-| 🤖 GenAI Training — Cohort 3 | Higher Education Commission (HEC) Pakistan | Completed |
-| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship (4 months) | Active |
-| 🌐 Web Development Track | Saylani Mass IT Training | Completed |
+| 🤖 GenAI Training: Cohort 3 | Higher Education Commission (HEC) Pakistan | Active |
+| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship (4 months) | Completed |
+| 🌐 Modern Web & App Development | Saylani Mass IT Training | Active |
 
 ---
 
@@ -38,7 +37,6 @@ Right now I'm in the fundamentals-to-proficiency phase — building real project
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)

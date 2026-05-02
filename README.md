@@ -16,7 +16,7 @@ Right now I'm in the fundamentals-to-proficiency phase, building real projects, 
 |---|---|---|
 | 🎓 Code in Place 2026 | Stanford University | Selected Participant |
 | 🤖 GenAI Training: Cohort 3 | Higher Education Commission (HEC) Pakistan | Active |
-| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship (4 months) | Completed |
+| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship | Active |
 | 🌐 Modern Web & App Development | Saylani Mass IT Training | Active |
 
 ---

@@ -47,13 +47,13 @@ Right now I'm in the fundamentals-to-proficiency phase, building real projects, 
 
 | Project | Description |
 |---|---|
-| [Currency Converter](https://github.com/YOUR_USERNAME/currency-converter) | Live exchange rates via external API — vanilla JS, no libraries |
-| [Dexo.pk](https://github.com/YOUR_USERNAME/dexo-pk) | Multi-page e-commerce frontend — HTML, CSS, JS |
-| [Edvora Website Rebuild](https://github.com/YOUR_USERNAME/edvora-rebuild) | Rebuilt under timed competition conditions using Bootstrap |
-| [Theme Toggle](https://github.com/YOUR_USERNAME/theme-toggle) | Light/dark mode using JS closures and CSS transitions |
-| [BioCard UI](https://github.com/YOUR_USERNAME/biocard-ui) | Responsive bio card with dynamic JS |
-| [Image Slider](https://github.com/YOUR_USERNAME/image-slider) | Smooth transitions with custom JS navigation |
-| [LeetCode — Java Solutions](https://github.com/YOUR_USERNAME/leetcode-java) | Daily solutions with documented approach and notes |
+| [Currency Converter](http://github.com/kaneeza-batool/currency-converter) | Live exchange rates via external API — vanilla JS, no libraries |
+| [Dexo.pk](https://github.com/kaneeza-batool/dexo.pk) | Multi-page e-commerce frontend — HTML, CSS, JS |
+| [Edvora Website Rebuild](https://github.com/kaneeza-batool/edvora-website-speed-challenge) | Rebuilt under timed competition conditions using Bootstrap |
+| [Theme Toggle](https://github.com/kaneeza-batool/theme-toggle-project) | Light/dark mode using JS closures and CSS transitions |
+| [BioCard UI](https://github.com/kaneeza-batool/BioCard-UI) | Responsive bio card with dynamic JS |
+| [Image Slider](https://github.com/kaneeza-batool/modern-image-slider) | Smooth transitions with custom JS navigation |
+| [LeetCode — Java Solutions](https://github.com/kaneeza-batool/leetcode-java-solutions) | Daily solutions with documented approach and notes |
 
 ---
 

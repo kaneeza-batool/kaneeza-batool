@@ -1,91 +1,20 @@
-# Kaneeza Batool
-**Frontend Developer**
+# 💫 About Me:
+👩‍💻 About Me<br><br>I'm currently working on<br>Building frontend projects with HTML, CSS, Bootstrap, and JavaScript while strengthening my JavaScript fundamentals and DSA skills in Java.<br><br>I'm looking to collaborate on<br>Beginner-to-intermediate frontend projects, UI-based web apps, and JavaScript practice projects that improve real-world problem solving.<br><br>I'm looking for help with<br>Improving JavaScript concepts (especially async JS, APIs, and advanced DOM patterns) and guidance toward becoming a strong full-stack developer.<br><br>I'm currently learning<br>JavaScript deeply (DOM, APIs, closures, async programming), along with preparing for React and improving DSA daily in Java.<br><br>Ask me about<br>Frontend development basics, JavaScript fundamentals, beginner-friendly project building, or starting DSA in Java.<br><br>⚡ Fun fact<br>I follow a strict roadmap and practice coding daily—even small progress every day matters more to me than speed.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaneezabatool5@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kaneeza-batool&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kaneeza-batool&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kaneeza-batool&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About Me
-
-I'm a 4th-semester BSCS student at Sukkur IBA University, currently focused on frontend development while working toward a full-stack skill set. 
-Right now I'm in the fundamentals-to-proficiency phase, building real projects, doing LeetCode daily in Java, and following a structured roadmap. Not there yet, but actively moving.
-
----
-
-## Programs & Fellowships
-
-| Program | Organization | Status |
-|---|---|---|
-| 🎓 Code in Place 2026 | Stanford University | Selected Participant |
-| 🤖 GenAI Training: Cohort 3 | Higher Education Commission (HEC) Pakistan | Active |
-| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship | Active |
-| 🌐 Modern Web & App Development | Saylani Mass IT Training | Active |
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Programming**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## Projects
-
-| Project | Description |
-|---|---|
-| [Currency Converter](http://github.com/kaneeza-batool/currency-converter) | Live exchange rates via external API — vanilla JS, no libraries |
-| [Dexo.pk](https://github.com/kaneeza-batool/dexo.pk) | Multi-page e-commerce frontend — HTML, CSS, JS |
-| [Edvora Website Rebuild](https://github.com/kaneeza-batool/edvora-website-speed-challenge) | Rebuilt under timed competition conditions using Bootstrap |
-| [Theme Toggle](https://github.com/kaneeza-batool/theme-toggle-project) | Light/dark mode using JS closures and CSS transitions |
-| [BioCard UI](https://github.com/kaneeza-batool/BioCard-UI) | Responsive bio card with dynamic JS |
-| [Image Slider](https://github.com/kaneeza-batool/modern-image-slider) | Smooth transitions with custom JS navigation |
-| [LeetCode — Java Solutions](https://github.com/kaneeza-batool/leetcode-java-solutions) | Daily solutions with documented approach and notes |
-
----
-
-## Currently Learning
-
-I follow a structured roadmap. Here's where I am:
-
-- ✅ HTML5, CSS3, Bootstrap 5
-- ✅ JavaScript fundamentals
-- 🔄 JavaScript — DOM, APIs, async, closures *(in progress)*
-- ⬜ React
-- ⬜ Node.js + Express
-- ⬜ MongoDB
-- ⬜ Full-stack capstone project *(target: late 2026)*
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaneeza-batool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaneeza-batool&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaneeza-batool)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaneezabatool5@gmail.com)
-
----
-
-<sub>📍 Sukkur, Sindh, Pakistan</sub>

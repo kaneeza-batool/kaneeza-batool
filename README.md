@@ -1,5 +1,9 @@
-# 💫 About Me:
-I’m a 4th-semester BSCS student at Sukkur IBA University, currently focused on frontend development while building a strong foundation in problem-solving and software engineering fundamentals. I enjoy learning by building real projects using HTML, CSS, Bootstrap, and JavaScript, and I’m actively improving my skills in Java for DSA practice. Alongside academics, I follow a structured learning roadmap and participate in programs and fellowships that help me grow as a developer. My goal is to steadily progress toward becoming a confident full-stack developer by continuously learning, practicing, and shipping meaningful projects.<br>
+# Kaneeza Batool
+**Frontend Developer**
+
+# About Me:
+4th-semester BSCS student at Sukkur IBA University. I build frontend interfaces with HTML, CSS, JavaScript, and Bootstrap and I'm working through a structured roadmap toward full-stack development.
+Currently: deepening JavaScript, doing daily LeetCode in Java, and shipping projects that solve real problems.
 
 
 ## 🌐 Socials:
@@ -28,6 +32,16 @@ I’m a 4th-semester BSCS student at Sukkur IBA University, currently focused on
 | [Taj Restaurant Website](https://github.com/kaneeza-batool/taj-restaurant-website) | Restaurant site with menu, booking form, and multi-section layout |
 | [BioCard UI](https://github.com/kaneeza-batool/BioCard-UI) | Responsive bio card with dynamic JS |
 | [LeetCode — Java Solutions](https://github.com/kaneeza-batool/leetcode-java) | Daily solutions with documented approach and notes |
+
+## Currently Learning
+ 
+- ✅ HTML5, CSS3, Bootstrap 5
+- ✅ JavaScript fundamentals
+- ✅ MySQL, MongoDB
+- 🔄 JavaScript — DOM, APIs, async, closures *(in progress)*
+- ⬜ React
+- ⬜ Node.js + Express
+- ⬜ Full-stack capstone project 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

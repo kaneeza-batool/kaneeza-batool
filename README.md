@@ -18,8 +18,8 @@ Currently: deepening JavaScript, doing daily LeetCode in Java, and shipping proj
 |---|---|---|
 | 🎓 Code in Place 2026 | Stanford University | Selected Participant |
 | 🤖 GenAI Training — Cohort 3 | Higher Education Commission (HEC) Pakistan | Completed |
-| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship (4 months) | Active |
-| 🌐 Web Development Track | Saylani Mass IT Training | Completed |
+| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship (3 months) | Active |
+| 🌐 Web Development Track | Saylani Mass IT Training | Active |
 
 ## Projects
 
@@ -38,8 +38,8 @@ Currently: deepening JavaScript, doing daily LeetCode in Java, and shipping proj
 - ✅ HTML5, CSS3, Bootstrap 5
 - ✅ JavaScript fundamentals
 - ✅ MySQL, MongoDB
-- 🔄 JavaScript — DOM, APIs, async, closures *(in progress)*
-- ⬜ React
+- ✅ JavaScript
+- ✅ React
 - ⬜ Node.js + Express
 - ⬜ Full-stack capstone project 
 

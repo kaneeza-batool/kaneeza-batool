@@ -1,52 +1,89 @@
-# Kaneeza Batool
-**Frontend Developer**
+# Hi, I'm Kaneeza Batool 👋
 
-# About Me:
-4th-semester BSCS student at Sukkur IBA University. I build frontend interfaces with HTML, CSS, JavaScript, and Bootstrap and I'm working through a structured roadmap toward full-stack development.
-Currently: deepening JavaScript, doing daily LeetCode in Java, and shipping projects that solve real problems.
+**Frontend Developer | MERN Stack in Progress | Open to Remote Opportunities**
 
+4th-semester BSCS student at Sukkur IBA University, Pakistan. I build real projects alongside my learning. Currently completing the MERN stack through the Dev Weekends Fellowship and Saylani Mass IT Training Program while solving daily LeetCode in Java.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaneezabatoolmemon@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+## 🚀 Currently Working On
 
-## Programs & Fellowships
+- Node.js + Express (backend development)
+- Full-stack MERN project
+- Daily LeetCode in Java
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Backend (in progress)**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+## 🏆 Programs & Achievements
 
 | Program | Organization | Status |
 |---|---|---|
-| 🎓 Code in Place 2026 | Stanford University | Selected Participant |
-| 🤖 GenAI Training — Cohort 3 | Higher Education Commission (HEC) Pakistan | Completed |
-| 💻 Dev Weekends Fellowship | DSA + Engineering Mentorship (3 months) | Active |
+| 🎓 Code in Place 2026 | Stanford University | Completed |
+| 🤖 GenAI Training — Cohort 3 | HEC Pakistan | Completed — Top Performer |
+| 💻 Dev Weekends Fellowship | AI Track — DSA + Engineering | Active |
 | 🌐 Web Development Track | Saylani Mass IT Training | Active |
-
-## Projects
-
-| Project | Description |
-|---|---|
-| [Dexo.pk](https://github.com/kaneeza-batool/dexo.pk) | Multi-page e-commerce frontend for a luxury home decor brand |
-| [Currency Converter](https://github.com/kaneeza-batool/currency-converter) | Live exchange rates via external API — vanilla JS |
-| [Edvora Speed Challenge](https://github.com/kaneeza-batool/edvora-website-speed-challenge) | Rebuilt under timed competition conditions using Bootstrap |
-| [House Construction Landing Page](https://github.com/kaneeza-batool/house-construction-landing-page) | Multi-section responsive business landing page |
-| [Taj Restaurant Website](https://github.com/kaneeza-batool/taj-restaurant-website) | Restaurant site with menu, booking form, and multi-section layout |
-| [BioCard UI](https://github.com/kaneeza-batool/BioCard-UI) | Responsive bio card with dynamic JS |
-| [LeetCode — Java Solutions](https://github.com/kaneeza-batool/leetcode-java) | Daily solutions with documented approach and notes |
-
-## Currently Learning
- 
-- ✅ HTML5, CSS3, Bootstrap 5
-- ✅ JavaScript fundamentals
-- ✅ MySQL, MongoDB
-- ✅ JavaScript
-- ✅ React
-- ⬜ Node.js + Express
-- ⬜ Full-stack capstone project 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kaneeza-batool&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | Qualified — 75th/424 teams, 85/100 |
 
 ---
-<sub>📍 Sukkur, Sindh, Pakistan</sub>
+
+## 📂 Featured Projects
+
+| Project | Tech | Live |
+|---|---|---|
+| [Dexo.pk — E-Commerce Frontend](https://github.com/kaneeza-batool/dexo.pk) | HTML, CSS, JS | [dexopk.netlify.app](https://dexopk.netlify.app) |
+| [Currency Converter](https://github.com/kaneeza-batool/currency-converter) | HTML, CSS, JS + API | GitHub |
+| [Habit Tracker App](https://github.com/kaneeza-batool/habit-tracker-app) | HTML, CSS, JS | [Live](https://kaneeza-batool.github.io/habit-tracker-app/) |
+| [Edvora Speed Challenge](https://github.com/kaneeza-batool/edvora-website-speed-challenge) | HTML, CSS, Bootstrap | GitHub |
+| [Taj Restaurant Website](https://github.com/kaneeza-batool/taj-restaurant-website) | HTML, CSS | GitHub |
+| [LeetCode Java Solutions](https://github.com/kaneeza-batool/leetcode-java) | Java | GitHub |
+
+---
+
+## 📊 GitHub Stats
+
+![Kaneeza's GitHub Stats](https://github-readme-stats.shion.dev/api?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=kaneeza-batool&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kaneeza-batool&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaneezabatoolmemon@gmail.com)
+
+---
+
+*Building from Sukkur, Pakistan — one commit at a time.*

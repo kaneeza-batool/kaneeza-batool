@@ -17,11 +17,11 @@
 
 ## About Me
 
-I'm a **4th-semester BSCS student** at Sukkur IBA University, Pakistan, working toward becoming a full-stack developer by end of 2026.
+I'm a **4th-semester BSCS student** at Sukkur IBA University, Pakistan, working toward becoming a full-stack developer by the end of 2026.
 
-I started from scratch in a city with no local tech ecosystem — no software houses, no industry connections. Everything I've built has come from online programs, consistency, and building real projects alongside my learning, not after it.
+I started from scratch in a city with no local tech ecosystem, no software houses, no industry connections. Everything I've built has come from online programs, consistency, and building real projects alongside my learning, not after it.
 
-Currently completing the **MERN stack** through the Dev Weekends Fellowship. Selected for **Stanford's Code in Place 2026** and recognized as **Top Performer** in HEC GenAI Training Cohort 3. Qualified for the **USAII Global AI Hackathon 2026 qualifier round**, ranking **75th out of 424 college-track teams** with a score of 85/100.
+Currently completing the **MERN stack** through the Dev Weekends Fellowship and Saylani Mass IT Training Program. Selected for **Stanford's Code in Place 2026** and recognized as **Top Performer** in HEC GenAI Training Cohort 3. Qualified for the **USAII Global AI Hackathon 2026 qualifier round**, ranking **75th out of 424 college-track teams** with a score of 85/100.
 
 > *"Building from Sukkur, Pakistan — one commit at a time."*
 

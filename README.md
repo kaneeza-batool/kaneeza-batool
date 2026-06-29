@@ -66,12 +66,12 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 | Program | Organization | Year | Status |
 |---|---|---|---|
 | 🎓 Code in Place 2026 | Stanford University | 2026 | ✅ Completed |
-| 🤖 GenAI Training — Cohort 3 | HEC Pakistan | 2026 | ✅ Completed **(Top Performer)** |
+| 🤖 GenAI Training (Cohort 3) | HEC Pakistan | 2026 | ✅ Completed **(Top Performer)** |
 | 💻 Dev Weekends Fellowship | Dev Weekends | 2026 | 🔵 Active |
 | 🌐 Web Development Track | Saylani Mass IT Training | 2025–Present | 🔵 Active |
 | 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | 2026 | ✅ Qualified **(75th/424 teams · 85/100 in qualifier)** |
 | 🌍 STEM Summer Outreach Program | International STEM Community | 2026 | 🔵 Selected |
-| 🎯 Skills4U Personality Development | Skills4U — Batch 02 | 2026 | ✅ Completed |
+| 🎯 Skills4U Personality Development | Skills4U (Batch 02) | 2026 | ✅ Completed |
 
 ---
 
@@ -133,7 +133,7 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 📚 Learning     Full-stack engineering via Dev Weekends Fellowship
 🧩 Practicing   Daily LeetCode in Java — arrays, strings, simulation
 🎯 Goal:        Remote internship or freelance by August 2026
-📍 Location     Sukkur, Pakistan — open to remote worldwide
+📍 Location:    Sukkur, Pakistan | open to remote worldwide
 ```
 
 ---

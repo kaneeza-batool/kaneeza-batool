@@ -21,7 +21,7 @@ I'm a **4th-semester BSCS student** at Sukkur IBA University, Pakistan, working 
 
 I started from scratch in a city with no local tech ecosystem — no software houses, no industry connections. Everything I've built has come from online programs, consistency, and building real projects alongside my learning, not after it.
 
-Currently completing the **MERN stack** through the Dev Weekends Fellowship. Selected for **Stanford's Code in Place 2026** and recognized as **Top Performer** in HEC GenAI Training Cohort 3. Qualified for the **USAII Global AI Hackathon 2026**, ranking **75th out of 424 college-track teams**.
+Currently completing the **MERN stack** through the Dev Weekends Fellowship. Selected for **Stanford's Code in Place 2026** and recognized as **Top Performer** in HEC GenAI Training Cohort 3. Qualified for the **USAII Global AI Hackathon 2026 qualifier round**, ranking **75th out of 424 college-track teams** with a score of 85/100.
 
 > *"Building from Sukkur, Pakistan — one commit at a time."*
 
@@ -37,7 +37,6 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 **Backend — In Progress**
 
@@ -58,7 +57,6 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
@@ -68,56 +66,49 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 | Program | Organization | Year | Status |
 |---|---|---|---|
 | 🎓 Code in Place 2026 | Stanford University | 2026 | ✅ Completed |
-| 🤖 GenAI Training — Cohort 3 | HEC Pakistan | 2026 | ✅ Completed — **Top Performer** |
-| 💻 Dev Weekends Fellowship — AI Track | Dev Weekends | 2026 | 🔵 Active |
+| 🤖 GenAI Training — Cohort 3 | HEC Pakistan | 2026 | ✅ Completed **(Top Performer)** |
+| 💻 Dev Weekends Fellowship | Dev Weekends | 2026 | 🔵 Active |
 | 🌐 Web Development Track | Saylani Mass IT Training | 2025–Present | 🔵 Active |
-| 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | 2026 | 🥇 **75th / 424 teams · 85/100** |
+| 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | 2026 | ✅ Qualified **(75th/424 teams · 85/100 in qualifier)** |
 | 🌍 STEM Summer Outreach Program | International STEM Community | 2026 | 🔵 Selected |
-| 🎯 Skills4U Personality Development | Skills4U — Batch 02 | 2026 | 🔵 Active |
+| 🎯 Skills4U Personality Development | Skills4U — Batch 02 | 2026 | ✅ Completed |
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🛍️ [Dexo.pk — E-Commerce Frontend](https://github.com/kaneeza-batool/dexo.pk)
-> Multi-page luxury home decor e-commerce site · Product catalog, cart, login flow, Pakistani payment integration · Fully responsive from scratch
+> Multi-page luxury home decor e-commerce site · Product catalog, cart, user login, and Pakistani payment integration · Fully responsive, built from scratch without templates
 
-**Tech:** HTML · CSS · JavaScript &nbsp; | &nbsp; **Live:** [dexopk.netlify.app](https://dexopk.netlify.app)
-
----
-
-### 💱 [Currency Converter](https://github.com/kaneeza-batool/currency-converter)
-> Real-time currency converter integrating a live exchange rate API · Async calls, dynamic DOM updates, error handling · No external libraries
-
-**Tech:** HTML · CSS · JavaScript · REST API
-
----
-
-### ✅ [Habit Tracker App](https://github.com/kaneeza-batool/habit-tracker-app)
-> Fully functional habit tracker with weekly grid, streak tracking, and category labels · Built for personal use and used daily
-
-**Tech:** HTML · CSS · JavaScript &nbsp; | &nbsp; **Live:** [View App](https://kaneeza-batool.github.io/habit-tracker-app/)
-
----
-
-### 🤖 [ElderBridge — AI Companion](https://github.com/Yusra-Shah/ElderBridge-Guardianos)
-> USAII Global AI Hackathon 2026 · AI companion for elderly Pakistanis · Detects scams, explains forms in plain language · Responsible AI design · **Ranked 75th/424 teams**
-
-**Tech:** UI/UX · Responsible AI · Hackathon
+**Tech:** HTML · CSS · JavaScript &nbsp;|&nbsp; **Live:** [dexopk.netlify.app](https://dexopk.netlify.app)
 
 ---
 
 ### ⚡ [Edvora Speed Challenge](https://github.com/kaneeza-batool/edvora-website-speed-challenge)
-> Rebuilt live production interface under timed competition conditions · Saylani Speed Programming Challenge
+> Rebuilt a live production interface under timed competition conditions during the Saylani Speed Programming Challenge · Focused on rapid development and responsive layout
 
 **Tech:** HTML · CSS · Bootstrap
 
 ---
 
-### ☕ [LeetCode Java Solutions](https://github.com/kaneeza-batool/leetcode-java)
-> Daily documented solutions with approach notes and complexity analysis · Arrays, strings, simulation, two pointers
+### ✅ [Habit Tracker App](https://github.com/kaneeza-batool/habit-tracker-app)
+> Fully functional habit tracker with weekly grid view, streak tracking, and category labels · Built for personal use and used daily to track 7 habits
 
-**Tech:** Java · DSA
+**Tech:** HTML · CSS · JavaScript &nbsp;|&nbsp; **Live:** [View App](https://kaneeza-batool.github.io/habit-tracker-app/)
+
+---
+
+### 📚 [Library Tracking System](https://github.com/kaneeza-batool/library-tracking-system)
+> Full-stack application to track books, manage borrowing and return status, and organize a digital library · Frontend built with React + Vite, connected to a Node.js backend
+
+**Tech:** React · Vite · JavaScript · CSS · Node.js
+
+---
+
+### 🤖 [ElderBridge — AI Companion](https://github.com/Yusra-Shah/ElderBridge-Guardianos)
+> Built for USAII Global AI Hackathon 2026 · AI companion for elderly Pakistanis that reads screens, detects scams, and explains government forms in plain language · Responsible AI design · Qualified in top 75 out of 424 teams in qualifier round
+
+**Tech:** UI/UX · Responsible AI · Hackathon
 
 ---
 
@@ -139,9 +130,9 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 
 ```text
 🔨 Building     Node.js + Express + MongoDB (MERN Stack)
-📚 Learning     Full-stack engineering via Dev Weekends Fellowship  
+📚 Learning     Full-stack engineering via Dev Weekends Fellowship
 🧩 Practicing   Daily LeetCode in Java — arrays, strings, simulation
-🎯 Goal         Remote internship or freelance by August 2026
+🎯 Goal:        Remote internship or freelance by August 2026
 📍 Location     Sukkur, Pakistan — open to remote worldwide
 ```
 
@@ -149,7 +140,7 @@ Currently completing the **MERN stack** through the Dev Weekends Fellowship. Sel
 
 ## 📬 Let's Connect
 
-If you're hiring, collaborating, or building something interesting — I'd love to hear from you.
+If you're hiring, collaborating, or building something interesting, I'd love to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool)
 [![Email](https://img.shields.io/badge/Email-kaneezabatoolmemon@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaneezabatoolmemon@gmail.com)

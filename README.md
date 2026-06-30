@@ -6,7 +6,7 @@
 
 **Frontend Developer | MERN Stack in Progress | BSCS Student**
 
-📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎯 Building real projects, not just tutorials
+📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎯 Building real projects
 
 <br clear="left"/>
 
@@ -29,7 +29,7 @@ const kaneeza = {
   status: "4th Semester BSCS Student",
   university: "Sukkur IBA University",
   stack: {
-    frontend: ["HTML5", "CSS3", "Bootstrap", "JavaScript", "React", "Redux"],
+    frontend: ["HTML5", "CSS3", "Bootstrap", "Tailwind", "JavaScript", "React"],
     backend: ["Node.js", "Express.js", "MongoDB"],   // in progress
     languages: ["JavaScript", "Java", "C++", "Python"]
   },
@@ -49,10 +49,9 @@ const kaneeza = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend — In Progress
 

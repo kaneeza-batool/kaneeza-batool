@@ -1,4 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/245690110?v=4" align="left" width="120" style="border-radius:50%; margin-right: 20px;" />
+<div>
+<img src="https://avatars.githubusercontent.com/u/245690110?v=4" align="left" width="120" height="120" style="border-radius:50%; margin-right: 20px; margin-bottom: 0;" />
+</div>
 
 # Kaneeza Batool
 
@@ -16,7 +18,7 @@
 
 ## About Me
 
-| **Professional Profile**<br><br>> *"Building from a city with no tech ecosystem, one commit at a time"*<br><br>I'm a **4th-semester BSCS student** at Sukkur IBA University, working toward becoming a full-stack developer. I build real, deployed projects alongside my learning instead of just collecting tutorials.<br><br>Selected for **Stanford's Code in Place 2026**. Recognized as **Top Performer** in HEC's GenAI Training Cohort 3. Currently completing the **MERN stack** through the Dev Weekends Fellowship. Qualified for the **USAII Global AI Hackathon 2026**, ranking 75th out of 424 college-track teams.<br><br>**The story:** I started learning HTML and spent a full year afraid to move past it. Then Saylani Mass IT Training opened in Sukkur and everything changed. In the time since, I've gone from repeating HTML basics to building React applications and learning the full MERN stack. | ![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) |
+| **Professional Profile**<br><br>> *"Building from a city with no tech ecosystem, one commit at a time"*<br><br>I'm a **4th-semester BSCS student** at Sukkur IBA University, working toward becoming a full-stack developer. I build real, deployed projects alongside my learning instead of just collecting tutorials.<br><br>Selected for **Stanford's Code in Place 2026**. Recognized as **Top Performer** in HEC's GenAI Training Cohort 3. Currently completing the **MERN stack** through the Dev Weekends Fellowship. Advanced to **Round 2** of the USAII Global AI Hackathon 2026, out of 324 submitted teams and 200 that advanced.<br><br>**The story:** I started learning HTML and spent a full year afraid to move past it. Then Saylani Mass IT Training opened in Sukkur and everything changed. In the time since, I've gone from repeating HTML basics to building React applications and learning the full MERN stack. | ![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) |
 |---|---|
 
 ### Quick Profile
@@ -50,6 +52,7 @@ const kaneeza = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend — In Progress
 
@@ -78,9 +81,9 @@ const kaneeza = {
 ## 🏆 Featured Projects
 
 ### ElderBridge — AI Companion for Elderly Users
-`UI/UX` `Responsible AI` `Hackathon`
+`UI/UX` `Responsible AI` `Multi-Agent Systems` `Hackathon`
 
-Built for the USAII Global AI Hackathon 2026. An AI companion for elderly Pakistanis that reads screens, detects scams, and explains government forms in plain language. Qualified 75th out of 424 teams in the qualifier round with a score of 85/100.
+Built for the USAII Global AI Hackathon 2026. An AI companion for elderly Pakistanis that reads screens, detects scams, and explains government forms in plain language using a multi-agent architecture with seven specialized agents and on-device PII redaction. Advanced to Round 2 out of 324 submitted teams, with 200 teams advancing.
 
 [View Repository →](https://github.com/Yusra-Shah/ElderBridge-Guardianos)
 
@@ -130,7 +133,7 @@ Rebuilt a live production interface under timed competition conditions during th
 | 🤖 GenAI Training — Cohort 3 | HEC Pakistan | ✅ Completed, Top Performer |
 | 💻 Dev Weekends Fellowship, AI Track | Dev Weekends | 🔵 Active |
 | 🌐 Web Development Track | Saylani Mass IT Training | 🔵 Active |
-| 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | ✅ Qualified, 75th/424, 85/100 |
+| 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | ✅ Advanced to Round 2, out of 200 teams |
 | 🌍 STEM Summer Outreach Program | International STEM Community | 🔵 Selected |
 
 ---

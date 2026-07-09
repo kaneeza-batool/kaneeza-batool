@@ -165,8 +165,6 @@ Rebuilt a live production interface under timed competition conditions during th
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kaneeza-batool&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kaneeza-batool&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
 ![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=kaneeza-batool&theme=tokyo-night&hide_border=true)
 
 </div>

@@ -4,40 +4,42 @@
 
 # Kaneeza Batool
 
-**MERN Stack Developer | BSCS Student**
+**Full-Stack Developer (MERN) | Applied AI | BSCS '28**
 
-📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎯 Building real projects
+📍 Sukkur, Pakistan &nbsp;|&nbsp; 🎯 Building and shipping real projects
 
 <br clear="left"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaneezabatoolmemon@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/kaneeza-batool?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Followers)](https://github.com/kaneeza-batool)
-![Profile Views](https://komarev.com/ghpvc/?username=kaneeza-batool&style=for-the-badge&color=blueviolet)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaneezabatool)
 
 ---
 
 ## About Me
 
-| **Professional Profile<br><br>"Building from a city with no tech ecosystem, one commit at a time."<br><br>I'm a BSCS student at Sukkur IBA University and a MERN Stack Developer. I enjoy building real-world web applications and learning by creating projects that solve practical problems.<br><br>My journey began with HTML, where I spent nearly a year afraid to move forward. Everything changed when Saylani Mass IT Training opened in Sukkur, giving me the guidance and confidence to keep learning. Since then, I've progressed from building static web pages to developing React applications and full-stack MERN projects.<br><br>Along the way, I completed Stanford's Code in Place 2026, was recognized as a Top Performer in HEC's Generative AI Training Cohort 3, advanced to Round 2 of the USAII Global AI Hackathon 2026. I'm currently expanding my backend development skills through the Dev Weekends Fellowship while building and deploying projects that strengthen my portfolio | ![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) |
-|---|---|
+I'm a Computer Science student at Sukkur IBA University (BSCS '28), focused on full-stack development and applied AI.
 
+I build with the MERN stack, most recently auditing and rebuilding pages for JobSkillShare's website as a Web Development & UI/UX Intern. I'm also growing through AI and engineering fellowships with Aurattech, DoraDAO's Girls Who Yap Fellowship, and Dev Weekends, where I'm building MERN stack projects and strengthening my DSA fundamentals.
+
+My strengths are turning design thinking into working code, learning fast through real projects, and staying consistent. I'm recognized as an HEC GenAI Top Performer and a graduate of Stanford's Code in Place.
+
+I'm looking to grow into a full-stack or AI engineering role where I can keep building products that are useful, well-designed, and technically solid. Open to connecting with mentors, fellow developers, and anyone building at the intersection of tech and AI.
 
 ### Quick Profile
 
 ```js
 const profile = {
-  role: "Mern Stack Developer",
-  status: "4th Semester BSCS Student",
-  university: "Sukkur IBA University",
+  role: "Full-Stack Developer (MERN)",
+  status: "BSCS '28, Sukkur IBA University",
   stack: {
     frontend: ["HTML5", "CSS3", "Bootstrap", "Tailwind", "JavaScript", "React"],
-    backend: ["Node.js", "Express.js", "MongoDB"],   
+    backend: ["Node.js", "Express.js", "MongoDB"],
     languages: ["JavaScript", "Java", "C++", "Python"]
   },
-  currentFocus: "Building MERN projects",
-  dailyHabit: "LeetCode in Java, every single day",
-  lookingFor: "Remote internship or freelance role by August 2026",
+  currentFocus: "Full-stack MERN builds and applied AI",
+  dailyHabit: "LeetCode in Java",
+  lookingFor: "Full-stack or AI engineering role",
   location: "Sukkur, Pakistan"
 };
 ```
@@ -76,7 +78,6 @@ const profile = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -84,19 +85,28 @@ const profile = {
 
 ## 🏆 Featured Projects
 
-### ElderBridge — AI Companion for Elderly Users
+### TITAN: Multi-Portal Institute Management System
+`React` `Node.js` `Role-Based Access` `Vercel`
+
+A five-surface institute management platform: public website, student portal, super admin portal, campus-scoped sub admin portal, and trainer portal. Features per-module role-based access control, QR-based attendance with generated student ID cards, a campus map, a job portal with applicant matching, automated absence and payment alerts, and an AI assistant on the public site. Built with a team of six as the final project for the Modern Web App Development program at TITAN x Saylani Mass IT Training. Secured first position in Batch 1 and won the Project Excellence Award.
+
+[Live Demo →](ADD_LINK) &nbsp;|&nbsp; [View Repository →](ADD_LINK)
+
+---
+
+### ElderBridge: AI Companion for Elderly Users
 `UI/UX` `Responsible AI` `Multi-Agent Systems` `Hackathon`
 
-Built for the USAII Global AI Hackathon 2026. An AI companion for elderly Pakistanis that reads screens, detects scams, and explains government forms in plain language using a multi-agent architecture with seven specialized agents and on-device PII redaction. Advanced to Round 2 out of 324 submitted teams, with 200 teams advancing.
+Built for the USAII Global AI Hackathon 2026. An AI companion for elderly Pakistanis that reads screens, detects scams, and explains government forms in plain language, using a multi-agent architecture with seven specialised agents and on-device PII redaction. Selected to advance to Round 2 of the hackathon.
 
 [View Repository →](https://github.com/Yusra-Shah/ElderBridge-Guardianos)
 
 ---
 
-### Dexo.pk — E-Commerce Frontend
+### Dexo.pk: E-Commerce Frontend
 `HTML` `CSS` `JavaScript`
 
-A multi-page luxury home decor store featuring product catalog, cart functionality, user login flow, and Pakistani payment integration. Fully responsive, built entirely from scratch without templates.
+A multi-page luxury home decor store with a product catalog, cart functionality, user login flow, and Pakistani payment integration. Fully responsive, built from scratch without templates.
 
 [Live Demo →](https://dexopk.netlify.app) &nbsp;|&nbsp; [View Repository →](https://github.com/kaneeza-batool/dexo.pk)
 
@@ -105,7 +115,7 @@ A multi-page luxury home decor store featuring product catalog, cart functionali
 ### Library Tracking System
 `React` `Vite` `Node.js`
 
-A full-stack application to track books, manage borrowing and return status, and organize a digital library. React frontend connected to a Node.js backend.
+A full-stack application to track books, manage borrowing and return status, and organise a digital library. React frontend connected to a Node.js backend.
 
 [View Repository →](https://github.com/kaneeza-batool/library-tracking-system)
 
@@ -114,18 +124,9 @@ A full-stack application to track books, manage borrowing and return status, and
 ### Habit Tracker App
 `HTML` `CSS` `JavaScript`
 
-A fully functional habit tracker with weekly grid view, streak tracking, and category labels. Built for personal use and used daily to track 7 habits.
+A habit tracker with weekly grid view, streak tracking, and category labels. Built for personal use and used daily to track 7 habits.
 
 [Live Demo →](https://kaneeza-batool.github.io/habit-tracker-app/) &nbsp;|&nbsp; [View Repository →](https://github.com/kaneeza-batool/habit-tracker-app)
-
----
-
-### Edvora Speed Challenge
-`HTML` `CSS` `Bootstrap`
-
-Rebuilt a live production interface under timed competition conditions during the Saylani Speed Programming Challenge. Focused on rapid development and responsive design.
-
-[View Repository →](https://github.com/kaneeza-batool/edvora-website-speed-challenge)
 
 ---
 
@@ -133,13 +134,13 @@ Rebuilt a live production interface under timed competition conditions during th
 
 | Program | Organization | Status |
 |---|---|---|
+| 🥇 Modern Web App Development, Batch 1 | TITAN x Saylani Mass IT Training | ✅ Completed, 1st position and Project Excellence Award |
 | 🎓 Code in Place 2026 | Stanford University | ✅ Completed |
-| 🤖 GenAI Training — Cohort 3 | HEC Pakistan | ✅ Completed, Top Performer |
-| 🏅 USAII Global AI Hackathon 2026 | United States AI Institute | ✅ Advanced to Round 2, out of 200 teams |
-| 💻 Dev Weekends Fellowship, AI Track | Dev Weekends | 🔵 Active |
-| 🌐 Web Development Track | Saylani Mass IT Training | 🔵 Active |
-| 📊 Data & AI Fellowship | AuratTech | 🔵 Selected |
-| 🌍 STEM Summer Outreach Program | International STEM Community | 🔵 Selected |
+| 🤖 GenAI Training, Cohort 3 | HEC Pakistan | ✅ Completed, Top Performer |
+| 🏅 Global AI Hackathon 2026 | United States AI Institute | ✅ Advanced to Round 2 |
+| 📊 Data & AI Fellowship | Aurattech | 🔵 Active |
+| 🌐 Girls Who Yap Fellowship 2.0 | DoraDAO | 🔵 Active |
+| 💻 AI Engineering Mentorship | Dev Weekends | 🔵 Active |
 
 ---
 
@@ -147,11 +148,13 @@ Rebuilt a live production interface under timed competition conditions during th
 
 | Certification | Issuer |
 |---|---|
-| Code in Place 2026 | Stanford University |
-| GenAI Training — Cohort 3, Top Performer | HEC Pakistan |
-| Introduction to Generative AI | Google Cloud |
-| Introduction to Large Language Models | Google Cloud |
-| Introduction to Responsible AI | Google Cloud |
+| Code in Place 2026 (Python) | Stanford University |
+| Generative AI Training, Cohort 3, Top Performer | HEC Pakistan |
+| AI Fundamentals | IBM |
+| 5-Day AI Agents Intensive Vibe Coding Course | Kaggle |
+| Azure AI and Azure OpenAI Basics | Microsoft |
+| Prompt Engineering with the OpenAI API, Working with the OpenAI API, Working with Hugging Face, AI Ethics | DataCamp |
+| Introduction to Generative AI, Large Language Models, Responsible AI | Google Cloud |
 
 ---
 
@@ -163,10 +166,6 @@ Rebuilt a live production interface under timed competition conditions during th
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kaneeza-batool&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kaneeza-batool&layout=compact&theme=tokyonight&hide_border=true)
-
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=kaneeza-batool&theme=tokyo-night&hide_border=true)
-
 </div>
 
 ---
@@ -174,11 +173,11 @@ Rebuilt a live production interface under timed competition conditions during th
 ## 🎯 Currently
 
 ```text
-Building       Real-world MERN applications
-Learning       Backend Development & Authentication
-Practicing     Daily LeetCode in Java, arrays, strings, simulation
+Building       Full-stack MERN applications
+Learning       Backend development, authentication, and applied AI
+Practicing     Daily LeetCode in Java: arrays, strings, simulation
 Shipping       Real projects, deployed and documented
-Targeting      Remote Software Engineering Internship
+Targeting      Full-stack or AI engineering role
 ```
 
 ---
@@ -199,10 +198,6 @@ If you're hiring, building something interesting, or want to collaborate, reach 
 
 <div align="center">
 
-<sub><i>"Building from a city with no tech ecosystem, one commit at a time."</i></sub>
-
-<br><br>
-
-<sub>⭐ Thanks for visiting! If you like my work, consider starring a repository.</sub>
+<sub>⭐ Thanks for visiting. If you like my work, consider starring a repository.</sub>
 
 </div>

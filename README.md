@@ -8,7 +8,6 @@ Sukkur, Pakistan · Building and shipping real projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaneeza-batool)
 [![Email](https://img.shields.io/badge/Email-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaneezabatoolmemon@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kaneezabatool)
 
 </div>
 
@@ -18,7 +17,7 @@ Sukkur, Pakistan · Building and shipping real projects
 
 I'm a Computer Science student at Sukkur IBA University (BSCS '28), focused on full-stack development and applied AI.
 
-I build with the MERN stack. Most recently I shipped **auraCheck**, a live voice mock-interview platform built in 72 hours at the DoraHack 2.0 hackathon and launched on Product Hunt, and **TITAN**, a five-portal institute management system that took first place in its cohort. Before that I spent two months as a Web Development and UI/UX Intern at EdTech4D, auditing JobSkillShare's live site and rebuilding its homepage and Programs page, and led my team for one delivery cycle. My portfolio finished in the top 5 of the cohort.
+I build with the MERN stack. Most recently I shipped **auraCheck**, a live voice mock-interview platform built in 72 hours at the DoraHack 2.0 hackathon, launched on Product Hunt, and ranked in the **top 50 products globally**. Before that I built **TITAN**, a five-portal institute management system that took first place in its cohort. I also spent two months as a Web Development and UI/UX Intern at EdTech4D, auditing JobSkillShare's live site and rebuilding its homepage and Programs page, with my portfolio finishing in the top 5 of the cohort.
 
 I'm a certified **AI Engineer for Developers Associate** (DataCamp), and I'm currently building **PakLawAI**, a RAG-based legal assistant, with a five-person team on the AuratTech Data and AI Fellowship.
 
@@ -102,11 +101,11 @@ const profile = {
 
 `React` `TypeScript` `Node.js` `FastAPI` `CrewAI` `Groq` `WebSockets`
 
-A voice interview platform where a panel of five AI agents asks adaptive follow-ups and fact-checks each answer in real time against your own resume and GitHub history, instead of reading from a fixed question bank. A Judge agent closes the session with a scorecard: per-dimension scores, strengths, red flags, and concrete repair steps, downloadable as a PDF.
+A voice interview platform where a panel of five AI agents asks adaptive follow-ups and fact-checks each answer in real time against your own resume and GitHub history. A Judge agent closes the session with a scorecard: per-dimension scores, strengths, red flags, and concrete repair steps, downloadable as a PDF.
 
 Three services, each doing one job: a React and Vite frontend on Vercel, a Node/Express API server owning auth, sessions and SQLite history, and a Python FastAPI and CrewAI engine reachable only over Railway's private network.
 
-Built in 72 hours with a team of four at the DoraHack 2.0 hackathon and launched on Product Hunt.
+Built in 72 hours with a team of four at the DoraHack 2.0 hackathon. Launched on Product Hunt and ranked in the **top 50 products globally**.
 
 [Live Demo](https://auracheck-taupe.vercel.app) · [View Repository](https://github.com/kaneeza-batool/auraCheck)
 
@@ -142,9 +141,7 @@ I built the frontend, in a team of two. Advanced to Round 2 out of 324 submitted
 
 Two months of work on a live production site as a Web Development and UI/UX Intern at EdTech4D.
 
-I audited the existing JobSkillShare website and wrote UX reports identifying usability, layout, and accessibility gaps, then rebuilt the homepage and Programs page in HTML, CSS, and JavaScript with a responsive layout and deployed the prototypes to GitHub Pages. I also led my team for one delivery cycle, running alignment meetings and coordinating group submissions.
-
-Final portfolio selected in the top 5 of the internship cohort.
+Audited the existing JobSkillShare website and wrote UX reports identifying usability, layout, and accessibility gaps, then rebuilt the homepage and Programs page in HTML, CSS, and JavaScript with a responsive layout and deployed the prototypes to GitHub Pages. Led the team for one delivery cycle, running alignment meetings and coordinating group submissions. Final portfolio selected in the top 5 of the internship cohort.
 
 [View Repository](https://github.com/kaneeza-batool/JSS-Internship)
 
@@ -156,7 +153,7 @@ Final portfolio selected in the top 5 of the internship cohort.
 
 A multi-page luxury home decor store with a product catalog, cart functionality, user login flow, and Pakistani payment integration. Fully responsive, built from scratch without templates.
 
-[Live Demo](#) · [View Repository](#)
+[Live Demo](https://dexopk.netlify.app) · [View Repository](https://github.com/kaneeza-batool/dexo.pk)
 
 ---
 
@@ -169,9 +166,11 @@ A multi-page luxury home decor store with a product catalog, cart functionality,
 | Generative AI Training, Cohort 3 | HEC Pakistan | Completed. Top Performer |
 | Global AI Hackathon 2026 | United States AI Institute | Advanced to Round 2 of 324 teams |
 | Web Development and UI/UX Internship | EdTech4D, JobSkillShare | Completed. Portfolio selected in top 5 |
-| Girls Who Yap Fellowship 2.0 | DoraDAO | Completed. Shipped auraCheck at DoraHack 2.0 |
+| Girls Who Yap (GWY) Fellowship 2.0 | DoraDAO | Completed. Shipped auraCheck at DoraHack 2.0, top 50 on Product Hunt |
 | Data and AI Fellowship | AuratTech | Active |
 | AI Engineering Mentorship | Dev Weekends | Active |
+| Campus Ambassador | LoopLab | Active |
+| Member | Rewriting the Code (RTC) | Active |
 
 ---
 
@@ -186,6 +185,31 @@ A multi-page luxury home decor store with a product catalog, cart functionality,
 | AI Fundamentals | IBM |
 | 5-Day AI Agents Intensive | Kaggle |
 | Generative AI, LLMs, Responsible AI | Google Cloud |
+| Introduction to Embeddings with the OpenAI API | DataCamp |
+| Working with the OpenAI Responses API | DataCamp |
+| LLMOps Concepts | DataCamp |
+| Prompt Engineering with the OpenAI API | DataCamp |
+| Working with Hugging Face | DataCamp |
+| Working with OpenAI API | DataCamp |
+| AI Ethics | DataCamp |
+| Skills4U Personality Development, Batch 02 | Skills4U |
+| USAII Global AI Hackathon 2026 | United States AI Institute |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=kaneeza-batool&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kaneeza-batool&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kaneeza-batool&layout=compact&theme=tokyonight&hide_border=true)
+
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=kaneeza-batool&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
@@ -194,7 +218,7 @@ A multi-page luxury home decor store with a product catalog, cart functionality,
 ```
 Building     PakLawAI, a RAG-based legal assistant, with a 5-person team
 Learning     Backend architecture, multi-agent systems, retrieval pipelines
-Practicing   Daily LeetCode in Java: arrays, strings, simulation
+Practicing   Daily LeetCode in Java
 Shipping     Real projects, deployed and documented
 Targeting    Remote full-stack or AI engineering role
 ```

@@ -119,7 +119,7 @@ A five-surface institute management platform: public website, student portal, su
 
 Built with a team of six as the final project of the Modern Web App Development program at TITAN x Saylani Mass IT Training. Secured first position in Batch 1 and the Project Excellence Award.
 
-[Live Demo](https://saylani-portal-fyp.vercel.app) · [View Repository](https://github.com/kaneeza-batool/saylani-portal-fyp)
+[View Repository](https://github.com/kaneeza-batool/saylani-portal-fyp)
 
 ---
 
@@ -131,7 +131,7 @@ Built for the USAII Global AI Hackathon 2026. An AI companion for elderly Pakist
 
 I built the frontend, in a team of two. Advanced to Round 2 out of 324 submitted teams.
 
-[View Repository](https://github.com/Yusra-Shah/ElderBridge-Guardians)
+[View Repository](https://github.com/Yusra-Shah/ElderBridge-Guardianos)
 
 ---
 
